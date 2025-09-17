@@ -33,7 +33,7 @@ The project stems from the potential to improve employee satisfaction, reduce co
 
 #### The methodology for IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction is as follows:-
 ```
-- Load the Dataset: The IBM HR Analytics Attrition Dataset is loaded using the pd.read_csv() function. The head() and info() methods are used to display the first few rows and get information about the dataset, respectively.
+- Load the Dataset: The HR Analytics Attrition Dataset is loaded using the pd.read_csv() function. The head() and info() methods are used to display the first few rows and get information about the dataset, respectively.
 - Knowing the Dataset: Basic Information about the dataset is generated; numerical and categorical attributes are enlisted.
 - Data Cleaning: Any missing values in the dataset are dropped using the dropna() method.
 - Data Visualization: Matplotlib and Seaborn libraries are used to visualize the data. 
@@ -49,7 +49,7 @@ The project stems from the potential to improve employee satisfaction, reduce co
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### :file_folder: DATASET
-This is a hypothetical dataset created by IBM data scientists. The dataset has (1470R X 35C) that contains numeric and categorical data types describing each employee’s background and characteristics, and labeled with whether they are still in the company or whether they have gone to work somewhere else. 
+This is a hypothetical dataset created by data scientists. The dataset has (1470R X 35C) that contains numeric and categorical data types describing each employee’s background and characteristics, and labeled with whether they are still in the company or whether they have gone to work somewhere else. 
 
 #### Dataset Attributes
 ```
